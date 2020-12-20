@@ -10,7 +10,8 @@ h1 {
 p {
   clear: right;
   margin-left: 10px;
-  margin-top: 36px;
+  margin-top: 26px;
+  padding: 10px
 }
 
 /* Simple Responsive Framework. */
